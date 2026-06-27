@@ -1,6 +1,6 @@
 {
   "name": "@anmotechno/medusa-plugin-wa-support",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Whatsapp ticket and automation support for medusajs",
   "author": "ANMO",
   "license": "MIT",
